@@ -4,7 +4,7 @@ Windows 10/11 x64용 FEIVEN 공개 플레이테스트 배포 저장소입니다.
 
 ## 다운로드와 업데이트
 
-**[최신 공개 릴리즈 받기](https://github.com/hsdc1258/feiven-playtest/releases/latest)**
+**[최신 공개 릴리즈 받기](https://github.com/hvvsdcm/feiven-playtest/releases/latest)**
 
 현재 게임 빌드, 운영 정원, 변경 사항, 검증 범위와 알려진 제한은 최신 릴리즈 설명에서 확인하세요. 설치 파일 이름은 버전마다 달라질 수 있으므로 위의 최신 릴리즈 링크를 사용하세요.
 
@@ -13,7 +13,7 @@ Windows 10/11 x64용 FEIVEN 공개 플레이테스트 배포 저장소입니다.
 3. 실행 중인 게임을 종료하고 기존 설치 위치에 새 설치본을 설치합니다.
 4. FEIVEN 바로가기로 실행하고 게임 안의 로그인·로비 안내에 따라 참여합니다. 게임에서 업데이트가 필요하다고 안내하면 최신 릴리즈를 확인하세요.
 
-각 버전의 설치 파일과 체크섬은 [릴리즈 목록](https://github.com/hsdc1258/feiven-playtest/releases)에 보관합니다. 이전 버전으로 돌아갈 때는 해당 버전의 서버 호환 여부와 릴리즈 안내를 먼저 확인하세요.
+각 버전의 설치 파일과 체크섬은 [릴리즈 목록](https://github.com/hvvsdcm/feiven-playtest/releases)에 보관합니다. 이전 버전으로 돌아갈 때는 해당 버전의 서버 호환 여부와 릴리즈 안내를 먼저 확인하세요.
 
 ## 플레이테스트 안내
 
